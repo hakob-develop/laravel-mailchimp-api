@@ -18,6 +18,12 @@ Simple RESTful API to work with mailchimp lists
 http://localhost:8000/api
 ```
 
+### Headers
+
+```
+Accept: application/json
+```
+
 ### Lists
 
 ```
